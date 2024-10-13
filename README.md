@@ -1,6 +1,6 @@
 # Offline LLM Chatbot with GPT-J-6B and BERT
 
-This repository contains an offline Language Learning Model (LLM) chatbot that utilizes the `gpt-j-6B` model for generating responses and `bert-base-uncased-SST-2` for response selection. The project is designed for educational purposes to help understand the concepts behind LLMs and how they can be deployed locally. Please note that the model may produce hallucinations and should not be used for serious matters.
+This repository contains an offline Large Language Model (LLM) chatbot that utilizes the `gpt-j-6B` model for generating responses and `bert-base-uncased-SST-2` for response selection. The project is designed for educational purposes to help understand the concepts behind LLMs and how they can be deployed locally. Please note that the model may produce hallucinations and should not be used for serious matters.
 
 ## Table of Contents
 
